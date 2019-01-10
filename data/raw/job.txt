@@ -22,3 +22,31 @@ Passion for mobile technology, mobile apps, and gaming
 Self-starter with a positive attitude and team-first spirit
 Eager to learn new technologies and skills in data processing and analytics
 Bachelors degree in Math, Statistics, Business, Economics, or a related field
+
+About the Role 
+
+Data can tell us a lot about our world. Analytics allows us all to download huge amounts of data, crunch the numbers and discover the deep stories that lie beneath the surface. 
+
+At Essence, data offers insights on each phase of our workflow process. We use data to help our clients understand the reactions of customers to their products and services, which might manifest in many ways - audience segmentation, media analysis including attribution, driver and performance analysis, portfolio analyses and so forth. It's the ultimate data playground, driven by long standing relationships with clients like Google as well as our own curiosity. 
+
+We rely on analysts who are well-rounded to be successful: individuals with a strong background in data science, who can think creatively about our analytics offering and translate their analysis into compelling insights for our clients. 
+
+In this role based in Los Angeles, you will have an opportunity to apply all these skills and be at the forefront of cutting-edge digital analytics work for a major movie studio. 
+
+The ideal Data Analyst is a problem solver with a keen understanding of data wrangling, analysis and interpretation of complicated, disparate, large-scale datasets. You are technical, focused on results, a self-starter, and have demonstrated success in using analytics to drive the understanding, growth and success of a product or service. 
+
+Some of the things we'd like you to do:
+Take ownership of delivery for designated clients/projects
+Collaborate with campaign teams to identify opportunities where our analytics offering can add value
+Gain an understanding of marketing plans and their objectives to be able to assist with comprehensive measurement, and test & learn plans
+Develop analytical techniques to analyze results from experiments/studies/observations
+Explore methods/techniques for solving business problems given the data available
+Help internal and external clients understand the capability and limitations of methods used
+Develop and present compelling and innovative presentations
+A bit about yourself:
+Advanced degree in Statistics, Math, Computer Science, Physics a plus but not required.
+Hands-on Experience with statistical software packages (R, SPlus), programming languages (SQL, Python) and with statistical models for multivariate testing, time series analysis, logistic/linear/non-linear regression. Supervised, and Unsupervised machine learning a plus.
+Experience working with relational databases. Experience with 'big data' systems (Google Cloud Products, Qubole, Hive/Spark) a plus.
+Ability to communicate your findings effectively to non-technical audiences.
+Ability to use the story to create new analytical products or change an existing product in a way that improves company goals and metrics.
+Knowledge of the data science lifecycle - acquiring data from different sources, exploratory analysis, creating and optimizing models, validation and interpretation, and finally onward communication of results in a clear and succinct fashion.
