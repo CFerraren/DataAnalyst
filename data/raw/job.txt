@@ -1,0 +1,24 @@
+As a Data Analyst at AppOnboard, you will join our growing Analytics & Insights team to help support our growing business intelligence needs. This person will be responsible for extracting, analyzing, and modeling data that will lead to insights we can share with the worlds top developers who leverage AppOnboards demo technology and platform. 
+
+AppOnboard is a next-gen platform that powers Full-Fidelity Demos, which allow users to instantly experience an app or game in the highest quality possible before downloading it. AppOnboard enables app and game testing, driving insights to product teams and optimizing app launches and onboarding. The company was founded in late 2016 by Jonathan Zweig, the founding CEO of AdColony (which sold to Opera Software for $350 million). 
+
+This is a unique opportunity for someone looking to have an impact at one of the hottest startups in Los Angeles and top companies defining the future of app development. In Q1 we also secured our official $15 million Series A fundraising round! 
+
+Responsibilities:
+Analyze a plethora of real-time data sets to extract meaningful insights about app demos that run on AppOnboards platform and in other places (e.g. Google Play Store via App Store Demos/Google Play Instant)
+Interpret data, analyze results using statistical techniques to increase accuracy
+Support internal teams from Insight, Product, Business Development, Business Ops, Creative, and Sales with daily data requests and needs
+Establish data analysis process and set of tools that can help improve internal efficiencies and be taught to future hires
+Build KPI reports and dashboards to help key stakeholders measure, optimize and understand performance of demos across platforms and target audiences
+Ensure timely and accurate data analysis in a fast-paced, start-up environment
+What We're Looking For
+2-4 years of experience at a digital/mobile/tech company with a proven track record of using data analysis to drive significant business
+Strong mathematical or statistical background preferred
+Highly proficient with programming languages, especially for data manipulation (e.g. SQL, Python are highly important in this role).
+Knowledge of BI/Data visualization tools (e.g. Tableau) to create insightful reports, visualizations, and interactive dashboards for Commercial teams and customers
+Experience in and comfortable with data analysis, wrangling, and curation
+Strong project management skills with the ability to multi-task in a fast-paced environment with tight deadlines
+Passion for mobile technology, mobile apps, and gaming
+Self-starter with a positive attitude and team-first spirit
+Eager to learn new technologies and skills in data processing and analytics
+Bachelors degree in Math, Statistics, Business, Economics, or a related field
